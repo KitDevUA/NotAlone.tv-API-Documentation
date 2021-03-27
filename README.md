@@ -19,7 +19,7 @@
 #### Доступные параметры:
 `userID` - id пользователя *(обязательно)*
 
-### https://api.notalone.tv/getUserRooms <a name="getUserRooms"></a> 
+### getUserRooms <a name="getUserRooms"></a> 
 Получение массива из id всех комнат, в которых есть пользователь
 #### Доступные параметры:
 `userID` - id пользователя *(обязательно)*
