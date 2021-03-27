@@ -16,7 +16,9 @@ API отвечает в формате `JSON`. Первым параметром
 ### 2. Работа с пользователями
 1. [getUser](#getUser)
 2. [getUserRooms](#getUserRooms)
-
+  
+  
+  
 ## Описание методов
 
 ### getUser <a name="getUser"></a> 
