@@ -11,6 +11,7 @@
 1. Работа с пользователями
   1. [getUser](#getUser)
   2. [getUserRooms](#getUserRooms)
+  * Test
 
 ### getUser <a name="getUser"></a> 
 Получение всей информации о пользователе по его ID.
