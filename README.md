@@ -17,6 +17,9 @@ API отвечает в формате `JSON`. Первым параметром
 1. [getUser](#getUser)
 2. [getUserRooms](#getUserRooms)
 3. [getFavorites](#getFavorites)
+### 3. Работа с каталогом
+1. [getNewest](#getNewest)
+2. [getPopular](#getPopular)
 
 
 ## Описание методов
