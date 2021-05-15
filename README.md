@@ -21,6 +21,7 @@ API отвечает в формате `JSON`. Первым параметром
 1. [getCatalogItem](#getCatalogItem)
 2. [getCatalogNewest](#getCatalogNewest)
 3. [getCatalogPopular](#getCatalogPopular)
+4. [catalogSearch](#catalogSearch)
 
 
 ## Описание методов
